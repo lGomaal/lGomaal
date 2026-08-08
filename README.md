@@ -1,112 +1,103 @@
-<h1 align="left">Hello👋</h1>
+<h1 align="left">Mohamed Gomaa</h1>
+
+<p align="left">
+Frontend engineer (Angular) with full-stack range in NestJS and PostgreSQL — 5+ years building production web applications, currently at Cyshield in Egypt. I focus on the architectural layer most frontend work skips: composable reactive form systems, layout that survives real content, and typed contracts between client and API. Open to remote roles and freelance work.
+</p>
 
 ###
 
-<p align="left">I'm a passionate coder and automation enthusiast dedicated to building innovative projects and streamlining processes through code. With a keen eye for efficiency, I specialize in creating solutions that automate mundane tasks, freeing up valuable time for more meaningful endeavors. Whether it's developing web applications, crafting scripts to automate data analysis, or tinkering with IoT devices, I thrive on transforming ideas into functional, elegant solutions. With a blend of creativity and technical expertise, I'm committed to pushing boundaries and making a positive impact through the power of coding. Let's collaborate and bring your projects to life!</p>
+<h2 align="left">Best work</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">
+<b>💌 <a href="https://elwasya.site" target="_blank">elwasya</a></b> — Live product. A digital legacy platform: record a video message for up to three loved ones, and elwasya checks in with you on your schedule and delivers it if you're ever gone. Next.js frontend, NestJS + Prisma + PostgreSQL backend, with real security work — video encryption, scheduled trigger logic, and PIN-protected delivery with windowed lockout.
+</p>
+
+<p align="left">
+<b>🏗️ Real estate lead-generation platform</b> — Arabic/English (RTL/LTR) site for Egyptian property developments, built for a client. Next.js + Payload CMS + PostgreSQL + Tailwind, bilingual content model, Telegram-integrated lead pipeline, Dockerized deploy behind Caddy with CI on every push. In active development, shipped in phases with written delivery reports per phase.
+</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2016.<br>📚 I'm currently learning Backend Development.</p>
+<h2 align="left">Where I go deep</h2>
 
 ###
 
-<h2 align="left">Technologies i use</h2>
+<p align="left">
+🧠&nbsp; <b>CS fundamentals underneath the web work</b> — algorithms and OOP from my CS degree at Ain Shams (FCIS): shortest-path solvers in C++, a MIPS assembler and machine-code translator in Python, structured systems built in C# with SQL Server. That's where the habit of reasoning about a problem before typing code came from<br>
+🧩&nbsp; <b>Reactive forms architecture</b> — nested forms with atomic validation across component boundaries (<code>ControlContainer</code> + <code>FormGroupName</code> + <code>viewProviders</code>), <code>FormArray</code>-driven dynamic forms, custom and async validators<br>
+🅰️&nbsp; <b>Modern Angular</b> — v17+ control flow (<code>@if</code>/<code>@else if</code>), ng-zorro component work, five years of Angular client projects<br>
+🎨&nbsp; <b>CSS fundamentals</b> — layout that holds up under real content: constrained flex/grid chains, viewport units, the <code>fr</code> unit, BEM, custom properties<br>
+🧱&nbsp; <b>Full-stack delivery</b> — shipping production apps end-to-end on Next.js/Angular + NestJS + Prisma/PostgreSQL, with queued jobs, encryption, and CI/CD baked in, not bolted on<br>
+🛠️&nbsp; <b>Comfortable outside the IDE</b> — Linux administration, VPS deployment and lifecycle management, DNS and auth troubleshooting
+</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
+<h2 align="left">Stack</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-gomaa-7b306b185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo2Xmrm3ATUiuhQkGQotMEg%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left"><sub><b>Languages</b></sub></p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly" />
+</p>
+
+<p align="left"><sub><b>Frontend</b></sub></p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+<p align="left"><sub><b>Backend & data</b></sub></p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+<p align="left"><sub><b>Tools & infra</b></sub></p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lGomaal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lGomaal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">Get in touch</h2>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lGomaal/count.svg?"  />
-</div>
-
-###
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-gomaa-7b306b185" target="_blank">LinkedIn</a> ·
+<a href="mailto:mgomaabusiness@gmail.com">Email</a> ·
+<a href="https://github.com/lGomaal" target="_blank">GitHub</a>
+</p>
