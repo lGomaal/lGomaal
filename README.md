@@ -59,9 +59,6 @@ A bilingual property discovery and lead-capture platform for the Egyptian develo
 
 ## Technical Focus
 
-**Reactive forms architecture**
-Nested form composition with atomic validation across component boundaries using `ControlContainer`, `FormGroupName`, and `viewProviders`; `FormArray`-driven dynamic forms; custom and asynchronous validators.
-
 **Modern Angular**
 Angular 17+ control flow syntax, Angular Material and ng-zorro component libraries, RxJS-driven state management, and reusable starter architecture across five years of production Angular projects.
 
@@ -90,7 +87,8 @@ Algorithms and object-oriented design from formal CS training: shortest-path imp
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly" />
 </p>
 
 **Frontend**
@@ -141,8 +139,8 @@ Algorithms and object-oriented design from formal CS training: shortest-path imp
 
 | Period | Focus |
 |---|---|
-| 2019 – 2020 | Computer science foundation at Ain Shams University (FCIS) — algorithms, systems programming, and OOP in C++, C#, Python, and Assembly. Transitioned into web development. |
-| 2020 – 2021 | Full-stack web work with Vue.js, Laravel, and PHP. First commercial client engagements. |
+| 2016 – 2020 | Computer science degree at Ain Shams University (FCIS) — algorithms, systems programming, computer vision, and OOP across C++, C#, Python, and Assembly. |
+| 2020 – 2021 | Transitioned into web development. Full-stack work with Vue.js, Laravel, and PHP; first commercial client engagements. |
 | 2021 – 2023 | Angular became primary specialisation. Delivered production applications including an e-banking administration platform and several client-facing systems. |
 | 2023 – 2025 | Consolidated Angular architecture into reusable starter frameworks. Deepened CSS fundamentals and broadened into the React ecosystem. |
 | 2025 – present | Full-stack product delivery: architected and shipped elwasya end to end, alongside client platform work in Next.js and Payload CMS. |
